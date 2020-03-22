@@ -1,0 +1,41 @@
+body{
+	background-image:url("portfolio.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+ul
+{
+	 position: absolute;
+  bottom: 150px;
+  right: 40px;
+  font-size: 28px;
+  font-family:Lucida Console;
+  font-weight: bold;
+  font-style: italic;
+}
+div
+{
+	position: absolute;
+	bottom: 400px;
+	right:170px;
+	font-size:30px;
+	font-weight:bold;
+	font-style:italic;
+	color:white;
+	background-color: black;
+	padding: 30px;
+
+}
+p1
+{
+	background-color: white;
+	padding: 3px;
+}
+p2{
+	background-color: white;
+	padding: 3px;
+}
+p3{
+	background-color:white;
+	padding: 3px; 
+}

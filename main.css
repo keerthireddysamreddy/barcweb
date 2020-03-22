@@ -1,0 +1,25 @@
+body
+{
+	background-image:url("back.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+img
+{
+	 position: absolute;
+  top: 100px;
+  right: 100px;
+ 
+}
+h1
+{
+	text-align: center;
+}
+p
+{
+	 position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 30px;
+}
